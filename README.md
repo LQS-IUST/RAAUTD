@@ -1,2 +1,3 @@
-# RAAUTD
-A real-time air-to-air UAV target detection framework
+This is an air-to-air UAV real-time target detection project.
+
+If you have any questions, you can contact us. (Email: 1185655560@qq.com)
